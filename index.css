@@ -1,0 +1,61 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    /* color: white; */
+}
+
+.fetchBtn{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fetchBtn button{
+    font-size: 24px;
+}
+table{
+    background-color: #CDCDCD;
+}
+.table-1 table{
+    /* border: 2px solid red; */
+    width: 90%;
+    margin: 30px auto;
+}
+
+.table-1 table td{
+    padding: 8px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.table-2 table{
+    /* border: 2px solid red; */
+    width: 90%;
+    margin: 30px auto;
+}
+
+.table-2 table td{
+    padding: 8px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.table-2 table td img{
+    display: flex;
+    width: 100px;
+    flex-direction: column;
+}
+
+.table-3 table{
+    /* border: 2px solid red; */
+    width: 90%;
+    margin: 30px auto;
+}
+
+.table-3 table td{
+    padding: 8px;
+    text-align: center;
+    font-size: 18px;
+}
